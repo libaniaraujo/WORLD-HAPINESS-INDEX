@@ -1,7 +1,7 @@
-# SPACE SALES (AIRBNB NOVA YORK)
+# WORLD HAPINESS INDEX
 
 
-<img src = "https://user-images.githubusercontent.com/94937578/172832122-c30207f4-8470-40d1-a5c3-4bcb6490c95e.PNG" width="1000px" />
+<img src = "https://user-images.githubusercontent.com/94937578/173049146-3ccc434c-cc96-4fad-9f95-0f36ac5a6149.png" width="1000px" />
 </div>
 
 
@@ -10,30 +10,11 @@
 - [<b>Código no Jupyter Notebook</b>]
 - [<b>Dashboard no Power BI</b>]
 
-## 2. Contexto
+## 2. Contexto:
 
-Supondo que nos juntamos ao time de dados de uma empresa de aluguel de espaços chamada Airbnb. Atualmente o foco da empresao é sua expansão na cidade de Nova York, Estados Unidos. Apesar de muito importante para a Airbnb, essa expansão também é muito arriscada pois qualquer decisão errada pode levar a um grande prejuízo.
-Para diminuir o risco desse projeto, o seu chefe pediu para você auxiliar o CEO utilizando dados para responder algumas perguntas que o ajudarão a tomar decisões comerciais e de marketing.
+
   
-## 3. Problema de negócio
-
-As perguntas do CEO:
-- Qual o valor médio do aluguel na cidade de Nova York?
-- Quais os nomes das regiões que existem na cidade de Nova York?
-- Qual é o valor do aluguel mais caro da cidade de Nova York?
-- Quais são as categorias de imóveis que estão cadastradas dentro da base de dados da cidade de Nova York?
-- Existem quantos usuários (hosts) únicos cadastrados dentro da base de dados da cidade de Nova York?
-- Como é a variação dos preços dos imóveis em Nova York?
-- Existem mais imóveis baratos ou caros?
-- Qual a distribuição do número de reviews? Existem imóveis com muitos e outros com poucos reviews?
-- Quais são as categorias de imóveis que estão cadastradas dentro da base de dados da cidade de Nova York?
-- Existem quantos usuários (hosts) únicos cadastrados dentro da base de dados da cidade de Nova York?
-- Como é a variação dos preços dos imóveis em Nova York?
-- Existem mais imóveis baratos ou caros?
-- Qual a distribuição do número de reviews? Existem imóveis com muitos e outros com poucos reviews?
-- Qual é o valor do aluguel (diária) mais caro de cada região da base de dados na cidade de Nova York?
-- Conseguimos saber onde estão localizados os imóveis com o valor do aluguel mais caro na cidade de Nova York?
-- Conseguimos saber onde estão localizados os imóveis pelo seu tipo?
+## 3. Problema:
 
 
 ## 4. Planejamento da solução:
