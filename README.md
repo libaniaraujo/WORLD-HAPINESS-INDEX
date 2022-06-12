@@ -22,7 +22,7 @@ Cada relatório anual está disponível para o público no site World Happiness 
   
 ## 3. Problema:
 
-Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happiness Report para 2021, obtendo conclusões a partir disso sobre a felicidade dos indivíduos ao redor do mundo e os fatores que a influenciam. 
+Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happiness Report para 2022, obtendo conclusões a partir disso sobre a felicidade dos indivíduos ao redor do mundo e os fatores que a influenciam. 
 
 ## 4. Planejamento da solução:
 
@@ -45,9 +45,9 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 `lowerwhisker` |
 `Logged GDP per capita` |
 `Social support` | Suporte social
-`Healthy life expectancy` |
+`Healthy life expectancy` | Expectativa de vida saúdavel
 `Freedom to make life choices` | Liberdade para fazer escolhas
-`Generosity` |
+`Generosity` | Generosidade
 `Perceptions of corruption` | Percepção da corrupção
 `Ladder score in Dystopia` |
 `Explained by: Log GDP per capita` |
