@@ -16,15 +16,13 @@ O World Happiness Report (Relatório Mundial da Felicidade) é uma publicação 
 
 Os dados são coletados de pessoas em mais de 150 países (em 2021 foram 156) e cada variável mensurada revela uma pontuação média ponderada por população numa escala de 0 a 10, que é monitorada com o passar do tempo e comparada com a de outros países. Atualmente, essas variáveis incluem: PIB per capita real, assistência social, expectativa de vida saudável, liberdade para fazer escolhas, generosidade e percepções de corrupção. Cada país também é comparado a um país hipotético chamado Distopia. Distopia representa as menores médias nacionais para cada variável chave e, juntamente com erros residuais, é usado como ponto de referência de regressão.
 
-O primeiro Relatório Mundial da Felicidade foi lançado em 1 de abril de 2012 como material base para a reunião. Ele chamou a atenção internacional por ser a primeira pesquisa sobre a felicidade global. O relatório descrevia o estado de felicidade mundial, as causas da felicidade e da miséria, e as implicações políticas destacadas por estudos de caso. Em setembro de 2013, o segundo relatório apresentou a primeira continuação anual e, desde então, os relatórios passaram a ser emitidos todos os anos.
-
 Cada relatório anual está disponível para o público no site World Happiness Report. Nos relatórios, principais especialistas de várias áreas — economia, psicologia, análise de pesquisa, estatísticas nacionais, entre outros — descrevem como as medições de bem-estar podem ser efetivamente usadas para avaliar o progresso das nações. Cada relatório está organizado por capítulos, que se aprofundam nas questões relacionadas à felicidade, incluindo doenças mentais, benefícios objetivos da felicidade, a importância da ética, implicações políticas e as ligações com a abordagem da OECD para mensurar o bem-estar subjetivo e o Índice de Desenvolvimento Humano.
 
 (Fonte: https://pt.wikipedia.org/wiki/Relat%C3%B3rio_Mundial_da_Felicidade)
   
 ## 3. Problema:
 
-
+Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happiness Report para 2021, obtendo conclusões a partir disso sobre a felicidade dos indivíduos ao redor do mundo e os fatores que a influenciam. 
 
 ## 4. Planejamento da solução:
 
@@ -35,22 +33,22 @@ Cada relatório anual está disponível para o público no site World Happiness 
 
 ## 5. Dados:
 
-- Os atributos dos imóveis apresentados no conjunto de dados são descritos na tabela abaixo.
+- Os atributos dos imóveis apresentados no conjunto de dados são descritos na tabela abaixo:
 
 **Atributo** | **Descrição**
 --- | --- 
-`Country name` | 
-`Regional indicator` |
-`Ladder score` |
+`Country name` | Nome do país
+`Regional indicator` | Indicador regional
+`Ladder score` | Índice de felicidade
 `Standard error of ladder score` |
 `upperwhisker` |
 `lowerwhisker` |
 `Logged GDP per capita` |
-`Social support` |
+`Social support` | Suporte social
 `Healthy life expectancy` |
-`Freedom to make life choices` |
+`Freedom to make life choices` | Liberdade para fazer escolhas
 `Generosity` |
-`Perceptions of corruption` |
+`Perceptions of corruption` | Percepção da corrupção
 `Ladder score in Dystopia` |
 `Explained by: Log GDP per capita` |
 `Explained by: Social support` |
@@ -59,19 +57,15 @@ Cada relatório anual está disponível para o público no site World Happiness 
 `Explained by: Generosity` |
 `Explained by: Perceptions of corruption` |
 `Dystopia + residual` |
- 
- ## 6. Pressupostos:
 
-
-## 7. Principais resultados:
+## 6. Principais resultados:
 
 <b>Análises realizadas a partir da análise dos dados:</b>
 
-## 9. Produto final (dashboard):
+## 7. Dashboard:
 
-## 10. Referências:
+## 8. Referências:
 
 - [Tutorial do canal do Youtube "Simplilearn".](https://www.youtube.com/watch?v=HNtEq-dK3C4&t=2334s)
-
 - [Base de dados do World Hapiness Report disponível na plataforma do Kaggle.](https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv)
 
