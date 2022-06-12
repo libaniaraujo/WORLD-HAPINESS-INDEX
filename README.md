@@ -20,7 +20,7 @@ Os dados são coletados de pessoas em mais de 150 países (em 2021 foram 156) e 
   
 ## 3. Problema:
 
-Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happiness Report para 2022, obtendo conclusões a partir disso sobre a felicidade dos indivíduos ao redor do mundo e os fatores que a influenciam. 
+Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happiness Report para 2021, obtendo conclusões a partir disso sobre a felicidade dos indivíduos ao redor do mundo e os fatores que a influenciam. 
 
 ## 4. Planejamento da solução:
 
@@ -31,7 +31,7 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 
 ## 5. Dados:
 
-- Os atributos apresentados no conjunto de dados do Relatório Mundial da Felicidade para o ano de 2021 são descritos na tabela abaixo:
+<b>Os atributos apresentados no conjunto de dados do Relatório Mundial da Felicidade para o ano de 2021 são descritos na tabela abaixo:</b>
 
 **Atributo** | **Descrição**
 --- | --- 
@@ -58,7 +58,7 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 
 ## 6. Principais resultados:
 
-<b>Análises realizadas a partir da análise dos dados:</b>
+<b>Análises realizadas a partir dos dados:</b>
 
 ## 7. Dashboard:
 
