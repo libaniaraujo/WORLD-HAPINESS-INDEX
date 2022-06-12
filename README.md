@@ -31,7 +31,7 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 
 ## 5. Dados:
 
-- Os atributos dos imóveis apresentados no conjunto de dados são descritos na tabela abaixo:
+- Os atributos apresentados no conjunto de dados do Relatório Mundial da Felicidade para o ano de 2021 são descritos na tabela abaixo:
 
 **Atributo** | **Descrição**
 --- | --- 
