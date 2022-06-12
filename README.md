@@ -90,6 +90,24 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 `Zimbábue` | 3,145
 `Afeganistão` | 2,523
 
+- O Índice de Felicidade médio por região é:
+
+
+**Região** | **Índice de Felicidade**
+--- | --- 
+`América do Norte, Austrália e Nova Zelândia` | 7,128
+`Europa Ocidental` | 6,915
+`Europa Central e Oriental` | 5,985
+`América Latina e Caribe` | 5,908
+`Leste Asiático` | 5,810
+`Comunidade de Estados Independentes` | 5,467
+`Sudeste Asiático` | 5,407
+`Oriente Médio e Norte da África` | 5,219
+`África Subsaariana` | 4,494
+`Sul da Ásia` | 4,418
+
+- O Índice de Felicidade está diretamente correlacionado com o PIB per capita. Isto é, em geral os países que apresentaram maiores Índices de Felicidade são aqueles com maior PIB per capita.
+
 ## 7. Dashboard:
 
 ## 8. Referências:
