@@ -60,6 +60,36 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 
 <b>Análises realizadas a partir dos dados:</b>
 
+- Em 2021, os 10 países com **maior** Índice de Felicidade foram:
+
+**País** | **Índice de Felicidade**
+--- | --- 
+`Finlândia` | 7,842
+`Dinamarca` | 7,620
+`Suíça` | 7,571
+`Islândia` | 7,554
+`Países Baixos` | 7,464
+`Noruega` | 7,392
+`Suécia` | 7,363
+`Luxemburgo` | 7,324
+`Nova Zelândia` | 7,277
+`Austria`| 7,268
+
+- Em 2021, os 10 países com **menor** Índice de Felicidade foram:
+
+**País** | **Índice de Felicidade**
+--- | --- 
+`Burundi` | 3,775
+`Iémen` | 3,658
+`Tanzânia` | 3,623
+`Haiti` | 3,615
+`Malawi` | 3,600
+`Lesoto` | 3,512
+`Botsuana` | 3,467
+`Ruanda` | 3,415
+`Zimbábue` | 3,145
+`Afeganistão` | 2,523
+
 ## 7. Dashboard:
 
 ## 8. Referências:
