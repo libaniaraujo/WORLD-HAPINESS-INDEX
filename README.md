@@ -16,8 +16,6 @@ O World Happiness Report (Relatório Mundial da Felicidade) é uma publicação 
 
 Os dados são coletados de pessoas em mais de 150 países (em 2021 foram 156) e cada variável mensurada revela uma pontuação média ponderada por população numa escala de 0 a 10, que é monitorada com o passar do tempo e comparada com a de outros países. Atualmente, essas variáveis incluem: PIB per capita real, assistência social, expectativa de vida saudável, liberdade para fazer escolhas, generosidade e percepções de corrupção. Cada país também é comparado a um país hipotético chamado Distopia. Distopia representa as menores médias nacionais para cada variável chave e, juntamente com erros residuais, é usado como ponto de referência de regressão.
 
-Cada relatório anual está disponível para o público no site World Happiness Report. Nos relatórios, principais especialistas de várias áreas — economia, psicologia, análise de pesquisa, estatísticas nacionais, entre outros — descrevem como as medições de bem-estar podem ser efetivamente usadas para avaliar o progresso das nações. Cada relatório está organizado por capítulos, que se aprofundam nas questões relacionadas à felicidade, incluindo doenças mentais, benefícios objetivos da felicidade, a importância da ética, implicações políticas e as ligações com a abordagem da OECD para mensurar o bem-estar subjetivo e o Índice de Desenvolvimento Humano.
-
 (Fonte: https://pt.wikipedia.org/wiki/Relat%C3%B3rio_Mundial_da_Felicidade)
   
 ## 3. Problema:
@@ -39,24 +37,24 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 --- | --- 
 `Country name` | Nome do país
 `Regional indicator` | Indicador regional
-`Ladder score` | Índice de felicidade
-`Standard error of ladder score` |
-`upperwhisker` |
-`lowerwhisker` |
-`Logged GDP per capita` |
-`Social support` | Suporte social
+`Ladder score` | Índice de Felicidade
+`Standard error of ladder score` | Erro padrão do Índice de Felicidade
+`upperwhisker` | Limite superior
+`lowerwhisker` | Limite inferior
+`Logged GDP per capita` | PIB per capita
+`Social support` | Suporte social (ter alguém com quem contar em períodos de dificuldade)
 `Healthy life expectancy` | Expectativa de vida saúdavel
 `Freedom to make life choices` | Liberdade para fazer escolhas
 `Generosity` | Generosidade
 `Perceptions of corruption` | Percepção da corrupção
-`Ladder score in Dystopia` |
-`Explained by: Log GDP per capita` |
-`Explained by: Social support` |
-`Explained by: Healthy life expectancy` |
-`Explained by: Freedom to make life choices` |
-`Explained by: Generosity` |
-`Explained by: Perceptions of corruption` |
-`Dystopia + residual` |
+`Ladder score in Dystopia` | Índice de felicidade em Distopia
+`Explained by: Log GDP per capita` | O quanto do índice de felicidade é explicado pelo PIB per capita
+`Explained by: Social support` | O quanto do índice de felicidade é explicado pelo suporte social
+`Explained by: Healthy life expectancy` | O quanto do índice de felicidade é explicado pela expectativa de vida saúdavel
+`Explained by: Freedom to make life choices` | O quanto do índice de felicidade é explicado pela liberdade de fazer escolhas
+`Explained by: Generosity` | O quanto do índice de felicidade é explicado pela generosidade
+`Explained by: Perceptions of corruption` | O quanto do índice de felicidade é explicado pela percepção de corrupção
+`Dystopia + residual` | Distopia + resíduo
 
 ## 6. Principais resultados:
 
