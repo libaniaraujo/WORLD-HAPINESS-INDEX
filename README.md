@@ -73,5 +73,5 @@ Cada relatório anual está disponível para o público no site World Happiness 
 
 - [Tutorial do canal do Youtube "Simplilearn".](https://www.youtube.com/watch?v=HNtEq-dK3C4&t=2334s)
 
-- [Base de dados do World Hapiness Report disponibilizada no Kaggle.](https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv)
+- [Base de dados do World Hapiness Report disponível na plataforma do Kaggle.](https://www.kaggle.com/datasets/mathurinache/world-happiness-report?resource=download&select=2022.csv)
 
