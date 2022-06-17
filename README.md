@@ -26,7 +26,7 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 
 - <b>Passo 1:</b> Coletar os dados. 
 - <b>Passo 2:</b> Descrever e limpar os dados.
-- <b>Passo 3:</b> Realizar a análise exploratória dos dados e obter a partir disso algumas análises.
+- <b>Passo 3:</b> Realizar a análise exploratória dos dados e realizar algumas análises a partir disso.
 - <b>Passo 6:</b> Apresentar as análises em um dashboard no Power BI.
 
 ## 5. Dados:
@@ -61,52 +61,30 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 <b>Análises realizadas a partir dos dados:</b>
 
 - Em 2021, os 10 países com **maior** Índice de Felicidade foram:
-
-**País** | **Índice de Felicidade**
---- | --- 
-`Finlândia` | 7,842
-`Dinamarca` | 7,620
-`Suíça` | 7,571
-`Islândia` | 7,554
-`Países Baixos` | 7,464
-`Noruega` | 7,392
-`Suécia` | 7,363
-`Luxemburgo` | 7,324
-`Nova Zelândia` | 7,277
-`Austria`| 7,268
+<img src = "https://user-images.githubusercontent.com/94937578/174214049-64c7e0f9-d772-48cb-a112-51de60577dda.png" width="250px" />
+</div>
 
 - Em 2021, os 10 países com **menor** Índice de Felicidade foram:
 
-**País** | **Índice de Felicidade**
---- | --- 
-`Burundi` | 3,775
-`Iémen` | 3,658
-`Tanzânia` | 3,623
-`Haiti` | 3,615
-`Malawi` | 3,600
-`Lesoto` | 3,512
-`Botsuana` | 3,467
-`Ruanda` | 3,415
-`Zimbábue` | 3,145
-`Afeganistão` | 2,523
+<img src = "https://user-images.githubusercontent.com/94937578/174214438-31c80c72-7f97-430b-afc6-587d118366c1.png" width="250px" />
+</div>
 
 - O Índice de Felicidade médio por região é:
 
-
-**Região** | **Índice de Felicidade**
---- | --- 
-`América do Norte, Austrália e Nova Zelândia` | 7,128
-`Europa Ocidental` | 6,915
-`Europa Central e Oriental` | 5,985
-`América Latina e Caribe` | 5,908
-`Leste Asiático` | 5,810
-`Comunidade de Estados Independentes` | 5,467
-`Sudeste Asiático` | 5,407
-`Oriente Médio e Norte da África` | 5,219
-`África Subsaariana` | 4,494
-`Sul da Ásia` | 4,418
+<img src = "https://user-images.githubusercontent.com/94937578/174213652-c85fe408-1d3d-478c-a9ce-b50589947a6e.png" width="400px" />
+</div>
 
 - O Índice de Felicidade está diretamente correlacionado com o PIB per capita. Isto é, em geral os países que apresentaram maiores Índices de Felicidade são aqueles com maior PIB per capita.
+
+<img src = "https://user-images.githubusercontent.com/94937578/174214966-913db43e-d10c-4bef-9700-27fa6b3aa52b.png" width="500px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174215443-f20d18d7-f88d-4b9e-99b3-c3c4ef6fee0e.png" width="700px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174215712-305d2e17-8df5-4feb-a001-ca9324f8f682.png" width="700px" />
+</div>
+
 
 ## 7. Dashboard:
 
