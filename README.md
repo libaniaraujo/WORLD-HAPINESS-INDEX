@@ -7,8 +7,8 @@
 
 ## 1. Resumo
 
-- [<b>Código no Jupyter Notebook</b>]
-- [<b>Dashboard no Power BI</b>]
+- [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/WORLD-HAPINESS-INDEX/tree/main/Notebook)
+- [<b>Dashboard no Power BI</b>](https://app.powerbi.com/view?r=eyJrIjoiN2U1NTNiMmMtMzEwMS00MDNhLTgzMDAtZGUxZDU4OWZhOTZhIiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9)
 
 ## 2. Contexto:
 
