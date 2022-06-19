@@ -74,19 +74,41 @@ Propõe-se aqui realizar a análise dos dados disponibilizados pelo World Happin
 <img src = "https://user-images.githubusercontent.com/94937578/174213652-c85fe408-1d3d-478c-a9ce-b50589947a6e.png" width="400px" />
 </div>
 
-- O Índice de Felicidade está diretamente correlacionado com o PIB per capita. Isto é, em geral os países que apresentaram maiores Índices de Felicidade são aqueles com maior PIB per capita.
+- Pode-se observar ainda a correlação entre o Índice de Felicidade e os demais indicodores disponibilizados para cada país:
 
 <img src = "https://user-images.githubusercontent.com/94937578/174214966-913db43e-d10c-4bef-9700-27fa6b3aa52b.png" width="500px" />
 </div>
 
-<img src = "https://user-images.githubusercontent.com/94937578/174215443-f20d18d7-f88d-4b9e-99b3-c3c4ef6fee0e.png" width="700px" />
+- O Índice de Felicidade mostrou-se diretamente correlacionado com o PIB per capita. Isto é, em geral os países que apresentaram maior Índice de Felicidade são aqueles com maior PIB per capita.
+
+<img src = "https://user-images.githubusercontent.com/94937578/174215443-f20d18d7-f88d-4b9e-99b3-c3c4ef6fee0e.png" width="500px" />
 </div>
 
-<img src = "https://user-images.githubusercontent.com/94937578/174215712-305d2e17-8df5-4feb-a001-ca9324f8f682.png" width="700px" />
+- Foram analisados ainda os indicadores por região:
+
+<img src = "https://user-images.githubusercontent.com/94937578/174495122-d09ede08-bccc-4b42-bce9-41bb1179ebab.png" width="500px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174215712-305d2e17-8df5-4feb-a001-ca9324f8f682.png" width="500px" />
 </div>
 
 
 ## 7. Dashboard:
+
+<img src = "https://user-images.githubusercontent.com/94937578/174494614-a5540a3f-ce33-4278-8f1a-9fad173570f2.png" width="800px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174494671-120ff6f1-0c3f-4b6b-a2ca-345e455bea97.png" width="800px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174494713-74e3cfa4-157e-4e5c-8e6b-3229f0963bea.png" width="800px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174494758-a62e2ea7-3676-433b-bf3e-b310009ada3a.png" width="800px" />
+</div>
+
+<img src = "https://user-images.githubusercontent.com/94937578/174494789-bb10f402-8e14-41b5-bac0-a06f6f64a063.png" width="800px" />
+</div>
 
 ## 8. Referências:
 
